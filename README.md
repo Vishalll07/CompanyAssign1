@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Assignment
 
 In /frontend/src, you will find a folder called nodes. This folder contains JavaScript 
 files for four types of nodes (inputs, outputs, LLMs, and text). Each of these nodes 
